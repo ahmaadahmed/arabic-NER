@@ -1,0 +1,6 @@
+https://huggingface.co/hatmimoha/arabic-ner/tree/main
+
+download 
+1-config.json
+2-vocab.txt
+3-pytorch_model.bin
